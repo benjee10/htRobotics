@@ -12,4 +12,4 @@ CHANGELOG
 1.0 - INITIAL RELEASE
 
 LICENSE
-HabtechRobotics is copyright Benedict Jewer 2023. All Rights Reserved. 
+HabTech 2 artwork is copyright Benedict Jewer 2021. All Rights Reserved. 
