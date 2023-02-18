@@ -1,0 +1,34 @@
+{
+  "spec_version"        : "v1.4",
+  "identifier"          : "htRobotics",
+  "$kref"               : "#/ckan/github/benjee10/htRobotics",
+  "abstract"            : "Robotics parts for Benjee10 mods",
+  "author"              : "benjee10",
+  "license"             : "restricted",
+  "release_status"      : "stable",
+  "$vref"               : "#/ckan/ksp-avc",
+  "resources": {
+    "homepage": "https://github.com/benjee10/htRobotics",
+    "repository": "https://github.com/benjee10/htRobotics"
+  },
+  "depends": [
+      { "name" : "ModuleManager" },
+      { "name" : "B9PartSwitch" },
+  ],
+  "recommends": [
+
+  ],
+  "suggests": [
+      { "name" : "HabTech2" },
+      { "name" : "Shuttle-Orbiter-Construction-Kit" },
+  ],
+  "install" : [
+      { "find" : "htRobotics",
+        "install_to" : "GameData"
+      }
+  ],
+  "tags": [
+      "library",
+      "parts"
+]
+}
