@@ -1,4 +1,4 @@
-HABTECH ROBOTICS 1.0.1 DEV VERSION
+HABTECH ROBOTICS 1.0.1
 A mod for Kerbal Space Program [Breaking Ground Expansion] 1.12.x by Benjee10. 
 
 INSTALLATION
@@ -10,7 +10,7 @@ DEPENDENCIES
 
 
 CHANGELOG
-1.0.1 - DEV VERSION
+1.0.1
 	- Updated mesh hierarchies on Canadarm1 parts to fix transform issues when reversed
 
 1.0.0 - INITIAL RELEASE
