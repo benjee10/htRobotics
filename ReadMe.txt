@@ -12,6 +12,7 @@ DEPENDENCIES
 CHANGELOG
 1.0.1
 	- Updated mesh hierarchies on Canadarm1 parts to fix transform issues when reversed
+	- Merged IR-next compatibility patches by meirumeiru
 
 1.0.0 - INITIAL RELEASE
 	- Added Canadarm2 parts
